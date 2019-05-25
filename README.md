@@ -31,7 +31,7 @@ The project is a simple java console application for decoding wav files into bin
 
 ## Decoding
 
-Decoding has been done by:
+Decoding is done by:
 
 
 
