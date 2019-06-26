@@ -1,11 +1,4 @@
 
-
-# Paradox Cat  Test Challenge 
-
-
-## **25<sup>th</sup> May 2019**
-
-
 # GETTING STARTED	
 
 These instructions will get you a copy of the project up and running on your local machine:
